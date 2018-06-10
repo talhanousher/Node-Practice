@@ -1,0 +1,22 @@
+{
+  "name": "node-js-practice",
+  "version": "1.0.0",
+  "description": "NodeJS Practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talhasudofy/Node-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talhasudofy/Node-Practice/issues"
+  },
+  "homepage": "https://github.com/talhasudofy/Node-Practice#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
