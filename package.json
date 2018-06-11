@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/talhasudofy/Node-Practice#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.3",
     "moment": "^2.22.2"
   },
