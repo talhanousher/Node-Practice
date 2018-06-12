@@ -1,7 +1,7 @@
 var express = require('express');
 var app = express();
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://admin:admin12345@ds255930.mlab.com:55930/addressbook');
+mongoose.connect('mongodb://<user>:<password>@ds255930.mlab.com:55930/addressbook');
 var Schema = mongoose.Schema;
 
 var personShema = new Schema({
